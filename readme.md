@@ -101,3 +101,5 @@
 
 <input type="checkbox" id="vitoria-item" />
 <label for="vitoria-item">Ao final, vence quem acumulou mais pontos</label>
+
+<b>PROJETO DA FORMAÇÃO DE NODE.JS PASSADO PELO PROFESSOR FELIPE DA DIO</b>
